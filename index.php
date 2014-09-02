@@ -13,6 +13,6 @@
     </style>
   </head>
   <body>
-    <img src="img/kitten5.jpeg" alt="Patriotic Cat">
+  <?php print "test" ?>
   </body>
 </html>
